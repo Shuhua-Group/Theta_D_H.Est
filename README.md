@@ -1,4 +1,4 @@
->Theta_D_H.Est
+>**Theta_D_H.Est**
 >
 >Calculator for statictics including Theta, D, H, and so on, based on the VCF input. 
 >
@@ -81,6 +81,8 @@ To calculate the following statistic within given regions:
 9. computational complexity: linear. you are suggested to filter homozygous loci to speed up the program. it may takes <1h and ~2Gb memory for chromosome 1 of CHB (50000@20000, ~12.5K sliding windows, 103 individuals)
 
 10. this program is compiled in centos7, older systems may not be supported. 
+
+11. If you have problem using the compiled program, it can still be run in the following way: `python2 Theta_D_F_H.py2.py [--options]`; OR `python3 Theta_D_F_H.py3.py [--options]`
 
 ---
 By: Yuwen Pan, 2021  
