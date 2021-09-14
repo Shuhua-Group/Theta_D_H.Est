@@ -83,7 +83,7 @@ To calculate the following statistic within given regions:
 
 10. this program is compiled in centos7, older systems may not be supported. 
 
-11. If you have problem using the compiled program, it can still be run in the following way: `python2 Theta_D_F_H.py2.py [--options]`; OR `python3 Theta_D_F_H.py3.py [--options]`
+11. If you have problem using the compiled program, it can still be run in the following way: `python2 Theta_D_F_H.py2.py [--options]`; OR `python3 Theta_D_F_H.py3.py [--options]`. All the required packages are accessible in conda. 
 
 ---
 By: Yuwen Pan, 2021  
