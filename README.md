@@ -2,8 +2,9 @@
 >
 >Calculator for statictics including Theta, D, H, and so on, based on the VCF input. 
 >
->If you use the **Theta_D_H.Est** in your research work, please cite the following paper:
+>If you use the **Theta_D_H.Est** in your research work, please cite at least one of the following paper(s):
 >
+>[Genomic diversity and post-admixture adaptation in the Uyghurs](https://doi.org/10.1093/nsr/nwab124)
 >
 
 ---
