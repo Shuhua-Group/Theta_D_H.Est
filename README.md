@@ -4,7 +4,7 @@
 >
 >If you use the **Theta_D_H.Est** in your research work, please cite at least one of the following paper(s):
 >
->[Genomic diversity and post-admixture adaptation in the Uyghurs](https://doi.org/10.1093/nsr/nwab124)
+>[Genomic diversity and post-admixture adaptation in the Uyghurs](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab124/6368880)
 >
 
 ---
