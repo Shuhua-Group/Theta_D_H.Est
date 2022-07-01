@@ -7,7 +7,7 @@
 >If you use the **Theta_D_H.Est** in your research work, please cite at least one of the following paper(s):
 >
 >- [Genomic diversity and post-admixture adaptation in the Uyghurs](https://academic.oup.com/nsr/article/9/3/nwab124/6368880) (*National Science Review*, 2021)
->- [Lineage-specific positive selection on ACE2 contributes to the genetic susceptibility of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac118/6623880) (*National Science Review*, 2022)
+>- [Lineage-specific positive selection on *ACE2* contributes to the genetic susceptibility of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac118/6623880) (*National Science Review*, 2022)
 
 ---
 
